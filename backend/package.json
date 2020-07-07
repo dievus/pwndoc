@@ -14,7 +14,7 @@
     "axios": "^0.19.2",
     "jest": "^26.0.1",
     "nodemon": "^1.19.4",
-    "npm": "^6.12.0"
+    "npm": "^6.14.6"
   },
   "dependencies": {
     "angular-expressions": "^1.0.1",
